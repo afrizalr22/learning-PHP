@@ -6,3 +6,5 @@ Learning PHP
 - Belajar Do While
 - Belajar if else
 - Belajar Membuat To Do List
+- Membuat Projek E-commerce
+- Membuat Projek Gaji Karyawan
